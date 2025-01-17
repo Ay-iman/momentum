@@ -1,0 +1,711 @@
+.momentumLogoCroppedPng1 {
+  width: 206.8px;
+  position: relative;
+  height: 52px;
+  object-fit: cover;
+}
+.aboutUs {
+  position: relative;
+  line-height: 140%;
+  font-weight: 600;
+}
+.frameChild {
+  width: 104px;
+  position: relative;
+  border-top: 2px solid #013b7d;
+  box-sizing: border-box;
+  height: 2px;
+}
+.contactUsParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.searchIcon {
+  width: 16px;
+  position: relative;
+  height: 16px;
+}
+.searchArticles {
+  position: relative;
+  line-height: 17px;
+}
+.button {
+  border-radius: 5px;
+  background-color: #013b7d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+  gap: 6px;
+  text-align: center;
+  font-size: 14px;
+  color: #f8fafc;
+}
+.aboutUsParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 31px;
+}
+.momentumLogoCroppedPng1Parent {
+  width: 1196.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.desktop8Inner {
+  position: absolute;
+  top: 0px;
+  left: calc(50% - 720px);
+  box-shadow: 0px 0px 4px rgba(13, 13, 13, 0.25);
+  background-color: #fff;
+  width: 1440px;
+  height: 133px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 40px 120px;
+  box-sizing: border-box;
+}
+.academy {
+  position: relative;
+  line-height: 140%;
+}
+.empoweringHealthcareLeaders {
+  width: 1092px;
+  position: relative;
+  line-height: 140%;
+  font-weight: 800;
+  display: inline-block;
+}
+.empoweringHealthcareLeadersWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 54px;
+  color: #0d2154;
+  font-family: "Futura Std";
+}
+.weOfferMentorship {
+  align-self: stretch;
+  position: relative;
+  font-size: 26px;
+  line-height: 140%;
+  font-family: "Futura Std";
+  color: #3c3c3c;
+}
+.button1 {
+  border-radius: 5px;
+  background-color: #013b7d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+}
+.button2 {
+  border-radius: 5px;
+  background-color: #5b88fe;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+}
+.buttonParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  text-align: center;
+  font-size: 14px;
+  color: #f8fafc;
+}
+.academyParent {
+  width: 1051px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.academy2 {
+  width: 1195px;
+  position: relative;
+  border-radius: 20px;
+  height: 430px;
+  object-fit: cover;
+}
+.frameGroup {
+  width: 1195px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.frameWrapper {
+  width: 1440px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 22px;
+  color: #64b05c;
+}
+.aboutOurAcademy {
+  align-self: stretch;
+  position: relative;
+  font-size: 26px;
+  line-height: 140%;
+  font-weight: 800;
+  font-family: "Futura Std";
+}
+.momentumAcademyIs {
+  margin: 0;
+}
+.momentumAcademyIsContainer {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+  color: #0d0d0d;
+  display: inline-block;
+  height: 167px;
+  flex-shrink: 0;
+}
+.button3 {
+  border-radius: 5px;
+  background-color: #013b7d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+  color: #f8fafc;
+}
+.aboutOurAcademyMentorshipParent {
+  width: 979px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 19px;
+  text-align: center;
+}
+.shapingSkilledProfessionals {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+  font-weight: 600;
+}
+.recruitingAndTraining {
+  position: relative;
+  font-size: 26px;
+  line-height: 140%;
+  font-weight: 800;
+  font-family: "Futura Std";
+  color: #0d0d0d;
+}
+.shapingSkilledProfessionalsParent {
+  position: absolute;
+  top: 167px;
+  left: 126px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.weEquipHealthcareContainer {
+  position: absolute;
+  top: 273px;
+  left: 126px;
+  line-height: 140%;
+  font-weight: 500;
+  color: #0d0d0d;
+  display: inline-block;
+  width: 606px;
+}
+.academyRecruitingAndTrainin {
+  position: absolute;
+  top: 56px;
+  left: 840px;
+  border-radius: 16px;
+  width: 450px;
+  height: 450px;
+  object-fit: cover;
+}
+.button4 {
+  position: absolute;
+  width: calc(100% - 1303px);
+  top: 436px;
+  right: 1176.5px;
+  left: 126.5px;
+  border-radius: 5px;
+  background-color: #013b7d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+  box-sizing: border-box;
+  text-align: center;
+  color: #f8fafc;
+}
+.frameContainer {
+  align-self: stretch;
+  position: relative;
+  height: 562px;
+  overflow: hidden;
+  flex-shrink: 0;
+  color: #3c3c3c;
+}
+.academyRecruitingAndTrainin1 {
+  width: 450px;
+  position: relative;
+  border-radius: 16px;
+  height: 450px;
+  object-fit: cover;
+}
+.weCareAboutTheNextSetOfParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.weEquipHealthcareContainer1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+  font-weight: 500;
+  color: #0d0d0d;
+}
+.frameParent2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 38px;
+}
+.button5 {
+  border-radius: 5px;
+  background-color: #013b7d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+  text-align: center;
+  color: #f8fafc;
+}
+.frameParent1 {
+  width: 606px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 38px;
+}
+.academyRecruitingAndTraininParent {
+  position: absolute;
+  top: 56px;
+  left: 126px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 107px;
+}
+.articles1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+  font-weight: 800;
+}
+.hereAreSome {
+  align-self: stretch;
+  position: relative;
+  font-size: 26px;
+  line-height: 140%;
+  color: #3c3c3c;
+}
+.articlesParent {
+  position: absolute;
+  top: 58px;
+  left: calc(50% - 344.5px);
+  width: 689px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.frameItem {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 9.58px;
+  background-color: #1d1d1d;
+  width: 243.4px;
+  height: 154px;
+}
+.image2Icon {
+  position: absolute;
+  top: calc(50% - 77px);
+  left: calc(50% - 121.35px);
+  border-radius: 8px;
+  width: 243px;
+  height: 154px;
+  object-fit: cover;
+}
+.rectangleParent {
+  width: 242.7px;
+  position: relative;
+  height: 154px;
+  z-index: 0;
+}
+.howDoYou {
+  width: 312px;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+}
+.byShalomNgbalaOkpab {
+  font-weight: 500;
+}
+.byShalomNgbalaOkpabParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+  font-size: 15px;
+}
+.button6 {
+  border-radius: 5px;
+  background-color: #013b7d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+  text-align: center;
+  font-size: 18px;
+  color: #f8fafc;
+}
+.howDoYouTreatPrematureEjaParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+  z-index: 1;
+}
+.freeWrapper {
+  margin: 0 !important;
+  position: absolute;
+  top: 9px;
+  left: 6px;
+  border-radius: 20px;
+  background-color: #f8f8ee;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 17px;
+  z-index: 2;
+  font-size: 15px;
+  color: #000;
+}
+.frameParent5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  gap: 24px;
+}
+.wrapper {
+  position: absolute;
+  top: 10px;
+  left: 12px;
+  border-radius: 20px;
+  background-color: #e4d1a0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 17px;
+}
+.rectangleGroup {
+  width: 242.7px;
+  position: relative;
+  height: 154px;
+}
+.whatIsImplantation {
+  width: 313px;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+}
+.whatIsImplantationBleedingParent {
+  width: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+  font-size: 22px;
+  color: #1d1d1d;
+}
+.frameParent6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+  font-size: 15px;
+  color: #000;
+}
+.image4Icon {
+  position: absolute;
+  top: calc(50% - 77px);
+  left: calc(50% - 121.35px);
+  border-radius: 8px;
+  width: 244px;
+  height: 154px;
+  object-fit: cover;
+}
+.reasonsWhyYouShouldntHoldParent {
+  width: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.frameParent7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+}
+.frameParent4 {
+  position: absolute;
+  top: 257px;
+  left: calc(50% - 508.5px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px;
+  text-align: left;
+  font-size: 22px;
+  color: #1d1d1d;
+  font-family: Montserrat;
+}
+.frameParent3 {
+  align-self: stretch;
+  position: relative;
+  background-color: #fff;
+  height: 670px;
+  overflow: hidden;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 45px;
+  font-family: "Futura Std";
+}
+.image8Icon {
+  width: 298px;
+  position: relative;
+  height: 80px;
+  object-fit: cover;
+}
+.momentumHealthcareIs {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+.image8Parent {
+  width: 328px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15px;
+  font-size: 15px;
+}
+.discover {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+  font-weight: 500;
+}
+.lineDiv {
+  align-self: stretch;
+  position: relative;
+  border-top: 1px solid #0d0d0d;
+  box-sizing: border-box;
+  height: 1px;
+}
+.discoverParent {
+  width: 110px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.sexualAndReproductive {
+  width: 241px;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+}
+.familyHealth {
+  position: relative;
+  line-height: 140%;
+  text-align: center;
+}
+.mentalAndEmotional {
+  width: 250px;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+}
+.sexualAndReproductiveHealthParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+  font-size: 18px;
+  color: #000;
+}
+.frameParent9 {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 36px;
+}
+.frameParent10 {
+  width: 194px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 36px;
+}
+.getInTouch {
+  width: 145px;
+  position: relative;
+  line-height: 140%;
+  font-weight: 500;
+  display: inline-block;
+}
+.getInTouchParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.enterYourEmail {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: 16px;
+  line-height: 140%;
+}
+.input {
+  align-self: stretch;
+  position: relative;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #cbd5e1;
+  box-sizing: border-box;
+  height: 52px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: 18px;
+  color: #3c3c3c;
+}
+.getTheLatestArticlesInYouParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3px;
+}
+.button9 {
+  border-radius: 5px;
+  background-color: #013b7d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+  gap: 6px;
+  text-align: center;
+  font-size: 18px;
+  color: #f8fafc;
+}
+.frameParent12 {
+  width: 279px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  font-size: 15px;
+}
+.frameParent8 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 52px;
+  font-size: 22px;
+  color: #0d0d0d;
+}
+.frameParent {
+  position: absolute;
+  top: 172px;
+  left: -1px;
+  width: 1441px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 84px;
+  color: #000;
+}
+.desktop8 {
+  width: 100%;
+  position: relative;
+  background-color: #f8f8ee;
+  height: 4507px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 18px;
+  color: #0d0d0d;
+  font-family: Montserrat;
+}

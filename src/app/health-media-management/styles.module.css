@@ -1,0 +1,706 @@
+.momentumLogoCroppedPng1 {
+  width: 206.8px;
+  position: relative;
+  height: 52px;
+  object-fit: cover;
+}
+.aboutUs {
+  position: relative;
+  line-height: 140%;
+  font-weight: 600;
+}
+.frameChild {
+  width: 104px;
+  position: relative;
+  border-top: 2px solid #013b7d;
+  box-sizing: border-box;
+  height: 2px;
+}
+.contactUsParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.searchIcon {
+  width: 16px;
+  position: relative;
+  height: 16px;
+}
+.searchArticles {
+  position: relative;
+  line-height: 17px;
+}
+.button {
+  border-radius: 5px;
+  background-color: #013b7d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+  gap: 6px;
+  text-align: center;
+  font-size: 14px;
+  color: #f8fafc;
+}
+.aboutUsParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 31px;
+}
+.momentumLogoCroppedPng1Parent {
+  width: 1196.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.desktop6Inner {
+  position: absolute;
+  top: 0px;
+  left: calc(50% - 720px);
+  box-shadow: 0px 0px 4px rgba(13, 13, 13, 0.25);
+  background-color: #fff;
+  width: 1440px;
+  height: 133px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 40px 120px;
+  box-sizing: border-box;
+}
+.amplifyingBrandAwareness {
+  width: 1037px;
+  position: relative;
+  line-height: 140%;
+  font-weight: 800;
+  display: inline-block;
+}
+.amplifyingBrandAwarenessAndWrapper {
+  width: 609px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.weCraftStrategic {
+  align-self: stretch;
+  position: relative;
+  font-size: 26px;
+  line-height: 140%;
+  color: #3c3c3c;
+}
+.button1 {
+  border-radius: 5px;
+  background-color: #013b7d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+  text-align: center;
+  font-size: 14px;
+  color: #f8fafc;
+  font-family: Montserrat;
+}
+.frameGroup {
+  width: 1051px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.healthMediaManagement1 {
+  width: 1195px;
+  position: relative;
+  border-radius: 20px;
+  height: 430px;
+  object-fit: cover;
+}
+.frameParent {
+  position: absolute;
+  top: 248px;
+  left: 120px;
+  width: 1195px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  font-size: 54px;
+  color: #0d2154;
+  font-family: "Futura Std";
+}
+.image8Icon {
+  width: 298px;
+  position: relative;
+  height: 80px;
+  object-fit: cover;
+}
+.image8Wrapper {
+  width: 328px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.discover {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+  font-weight: 500;
+}
+.frameItem {
+  align-self: stretch;
+  position: relative;
+  border-top: 1px solid #0d0d0d;
+  box-sizing: border-box;
+  height: 1px;
+}
+.discoverParent {
+  width: 110px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.healthCareConsulting {
+  width: 241px;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+}
+.healthMediaManagement {
+  position: relative;
+  line-height: 140%;
+  text-align: center;
+}
+.medicalTourism {
+  width: 250px;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+}
+.healthCareConsultingParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+  font-size: 18px;
+  color: #000;
+}
+.frameDiv {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 36px;
+}
+.frameParent1 {
+  width: 194px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 36px;
+}
+.getInTouch {
+  width: 145px;
+  position: relative;
+  line-height: 140%;
+  font-weight: 500;
+  display: inline-block;
+}
+.getInTouchParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.enterYourEmail {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: 16px;
+  line-height: 140%;
+}
+.input {
+  align-self: stretch;
+  position: relative;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #cbd5e1;
+  box-sizing: border-box;
+  height: 52px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: 18px;
+  color: #3c3c3c;
+}
+.getTheLatestArticlesInYouParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3px;
+}
+.button2 {
+  border-radius: 5px;
+  background-color: #013b7d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+  gap: 6px;
+  text-align: center;
+  font-size: 18px;
+  color: #f8fafc;
+}
+.frameParent3 {
+  width: 279px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  font-size: 15px;
+}
+.frameContainer {
+  position: absolute;
+  bottom: 73px;
+  left: calc(50% - 590px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 52px;
+  font-size: 22px;
+}
+.healthMediaManagement2 {
+  position: absolute;
+  top: 214px;
+  left: 131px;
+  font-size: 22px;
+  line-height: 140%;
+  color: #013b7d;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 61px;
+  left: 720px;
+  border-radius: 20px;
+  background-color: #d9d9d9;
+  width: 545px;
+  height: 587px;
+}
+.frameChild1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 8px;
+  background-color: #1d1d1d;
+  width: 387px;
+  height: 400px;
+}
+.fepictureIcon {
+  position: absolute;
+  top: calc(50% - 40px);
+  left: calc(50% - 39.5px);
+  width: 80px;
+  height: 80px;
+  overflow: hidden;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 134px;
+  left: 772px;
+  width: 387px;
+  height: 400px;
+  display: none;
+}
+.ourOnlinePresence {
+  position: absolute;
+  top: 61px;
+  left: 716px;
+  border-radius: 16px;
+  width: 550px;
+  height: 583px;
+  object-fit: cover;
+}
+.weHaveNumber {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+  font-weight: 600;
+}
+.ourOnlinePresence1 {
+  position: relative;
+  font-size: 26px;
+  line-height: 140%;
+  font-weight: 800;
+  font-family: "Futura Std";
+  color: #0d0d0d;
+}
+.weCraftStrategic1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+}
+.weHaveNumberToBackUpOurParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.groupIcon {
+  width: 71.2px;
+  position: relative;
+  height: 74px;
+}
+.groupWrapper {
+  width: 169px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frameIcon {
+  width: 69.6px;
+  position: relative;
+  height: 73.2px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.groupIcon1 {
+  width: 69.6px;
+  position: relative;
+  height: 73.2px;
+}
+.groupIcon2 {
+  width: 71.2px;
+  position: relative;
+  height: 74.7px;
+}
+.groupIcon3 {
+  width: 69.6px;
+  position: relative;
+  height: 72.7px;
+}
+.frame {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameParent6 {
+  width: 398px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  gap: 23px 60px;
+}
+.frameParent5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.button3 {
+  border-radius: 5px;
+  background-color: #013b7d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+  text-align: center;
+  font-size: 14px;
+  color: #f8fafc;
+}
+.frameParent4 {
+  position: absolute;
+  top: calc(50% - 288.5px);
+  left: 229px;
+  width: 431px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 1109px;
+  left: calc(50% - 720px);
+  background-color: #fff;
+  width: 1440px;
+  height: 720px;
+  overflow: hidden;
+  color: #3c3c3c;
+}
+.healthMediaMgtWhatWeCan {
+  width: 387px;
+  position: relative;
+  border-radius: 16px;
+  height: 400px;
+  object-fit: cover;
+}
+.whatWeCan {
+  align-self: stretch;
+  position: relative;
+  font-size: 26px;
+  line-height: 140%;
+  font-weight: 800;
+  font-family: "Futura Std";
+}
+.socialMediaManagement {
+  margin-bottom: 15px;
+}
+.socialMediaManagementDigita {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 24px;
+}
+.socialMediaManagementContainer {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+  color: #f2f2f2;
+}
+.button4 {
+  border-radius: 5px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+  text-align: center;
+  color: #013b7d;
+}
+.whatWeCanOfferYouParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.frameWrapper1 {
+  width: 593px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.healthMediaMgtWhatWeCanParent {
+  position: absolute;
+  top: 49px;
+  left: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 158px;
+}
+.healthMediaManagement3 {
+  position: absolute;
+  top: 1901px;
+  left: calc(50% - 720px);
+  background-color: #013b7d;
+  width: 1440px;
+  height: 498px;
+  overflow: hidden;
+  color: #fff;
+}
+.someMaterialsTo {
+  position: absolute;
+  top: 50px;
+  left: calc(50% - 257px);
+  line-height: 140%;
+  font-weight: 500;
+}
+.frameChild2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 9.58px;
+  background-color: #1d1d1d;
+  width: 243.4px;
+  height: 154px;
+}
+.image2Icon {
+  position: absolute;
+  top: calc(50% - 77px);
+  left: calc(50% - 121.35px);
+  border-radius: 8px;
+  width: 243px;
+  height: 154px;
+  object-fit: cover;
+}
+.rectangleContainer {
+  width: 242.7px;
+  position: relative;
+  height: 154px;
+}
+.howDoYou {
+  width: 312px;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+}
+.byShalomNgbalaOkpab {
+  font-weight: 500;
+}
+.byShalomNgbalaOkpabContainer {
+  position: relative;
+  line-height: 140%;
+}
+.byShalomNgbalaOkpabParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+  font-size: 15px;
+}
+.frameParent9 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.whatIsImplantation {
+  width: 313px;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+}
+.whatIsImplantationBleedingParent {
+  width: 313px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.image4Icon {
+  position: absolute;
+  top: calc(50% - 77px);
+  left: calc(50% - 121.35px);
+  border-radius: 8px;
+  width: 244px;
+  height: 154px;
+  object-fit: cover;
+}
+.frameParent8 {
+  width: 599.7px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px;
+}
+.frameChild5 {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 301px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.theRelationshipBetween {
+  width: 511px;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+}
+.theRelationshipBetweenAlcohWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameWrapper3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameParent12 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.frameParent7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 57px;
+}
+.frameWrapper2 {
+  position: absolute;
+  top: 149px;
+  left: 101px;
+  width: 1237.7px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: 22px;
+  color: #1d1d1d;
+  font-family: Montserrat;
+}
+.someMaterialsToHelpYouParent {
+  position: absolute;
+  top: 2471px;
+  left: 0px;
+  background-color: #ffece8;
+  width: 1440px;
+  height: 741px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 45px;
+  font-family: "Futura Std";
+}
+.desktop6 {
+  width: 100%;
+  position: relative;
+  background-color: #f8f8ee;
+  height: 3715px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 18px;
+  color: #0d0d0d;
+  font-family: Montserrat;
+}

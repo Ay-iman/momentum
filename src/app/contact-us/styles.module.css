@@ -1,0 +1,585 @@
+.momentumLogoCroppedPng1 {
+  width: 206.8px;
+  position: relative;
+  height: 52px;
+  object-fit: cover;
+}
+.aboutUs {
+  position: relative;
+  line-height: 140%;
+  font-weight: 600;
+}
+.frameChild {
+  width: 104px;
+  position: relative;
+  border-top: 2px solid #013b7d;
+  box-sizing: border-box;
+  height: 2px;
+}
+.contactUsParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.searchIcon {
+  width: 16px;
+  position: relative;
+  height: 16px;
+}
+.searchArticles {
+  position: relative;
+  line-height: 17px;
+}
+.button {
+  border-radius: 5px;
+  background-color: #013b7d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+  gap: 6px;
+  text-align: center;
+  font-size: 14px;
+  color: #f8fafc;
+}
+.aboutUsParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 31px;
+}
+.momentumLogoCroppedPng1Parent {
+  width: 1196.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.desktop4Inner {
+  position: absolute;
+  top: 0px;
+  left: calc(50% - 720px);
+  box-shadow: 0px 0px 4px rgba(13, 13, 13, 0.25);
+  background-color: #fff;
+  width: 1440px;
+  height: 133px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 40px 120px;
+  box-sizing: border-box;
+}
+.wereHereTo {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+  font-weight: 800;
+}
+.wereHereToHelpWrapper {
+  width: 995px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.gotAQuestion {
+  align-self: stretch;
+  position: relative;
+  font-size: 26px;
+  line-height: 140%;
+  color: #3c3c3c;
+}
+.frameParent {
+  position: absolute;
+  top: 178px;
+  left: 123px;
+  width: 1051px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  font-size: 54px;
+  color: #0d2154;
+  font-family: "Futura Std";
+}
+.contactUs1 {
+  position: absolute;
+  top: 387px;
+  left: 120px;
+  border-radius: 20px;
+  width: 1195px;
+  height: 430px;
+  object-fit: cover;
+}
+.desktop4Child {
+  position: absolute;
+  top: 883px;
+  left: 656px;
+  box-shadow: 0px 0px 14.9px -10px rgba(13, 13, 13, 0.15);
+  border-radius: 8px;
+  background-color: #fff;
+  width: 659px;
+  height: 704px;
+}
+.mailIcon {
+  width: 48px;
+  position: relative;
+  height: 48px;
+}
+.mailWrapper {
+  width: 83px;
+  border-radius: 41.5px;
+  background-color: #b2cdeb;
+  height: 83px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 9px 14px;
+  box-sizing: border-box;
+}
+.sendUsA {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+}
+.contactmomentumcom {
+  position: relative;
+  font-size: 18px;
+  line-height: 140%;
+  color: #3c3c3c;
+}
+.sendUsAMailParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.frameGroup {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.frameDiv {
+  position: absolute;
+  top: 914px;
+  left: 116px;
+  box-shadow: 0px 0px 14.9px -10px rgba(13, 13, 13, 0.15);
+  border-radius: 8px;
+  background-color: #fff;
+  width: 486px;
+  height: 126px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 21px 20px;
+  box-sizing: border-box;
+  font-size: 22px;
+}
+.needAssistanceOr {
+  align-self: stretch;
+  position: relative;
+  font-size: 18px;
+  line-height: 140%;
+  font-family: Montserrat;
+  color: #3c3c3c;
+}
+.sendUsAMessageParent {
+  position: absolute;
+  top: 920px;
+  left: 674px;
+  width: 570px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+  font-size: 26px;
+  color: #000;
+  font-family: "Futura Std";
+}
+.firstName {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  line-height: 140%;
+  font-weight: 500;
+}
+.enterYourFirst {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: 16px;
+  line-height: 140%;
+}
+.input1 {
+  position: absolute;
+  width: 100%;
+  top: 24px;
+  right: 0px;
+  left: 0px;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #cbd5e1;
+  box-sizing: border-box;
+  height: 52px;
+  overflow: hidden;
+  font-size: 15px;
+  color: #94a3b8;
+}
+.input {
+  align-self: stretch;
+  position: relative;
+  border-radius: 5px;
+  height: 76px;
+}
+.formCols {
+  width: 304px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.formColsParent {
+  position: absolute;
+  top: 1084px;
+  left: 674px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+  color: #475569;
+}
+.enterYourEmail {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: 16px;
+  line-height: 24px;
+}
+.input5 {
+  position: absolute;
+  width: 100%;
+  top: 24px;
+  right: 0px;
+  left: 0px;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #cbd5e1;
+  box-sizing: border-box;
+  height: 52px;
+  overflow: hidden;
+  font-size: 16px;
+  color: #94a3b8;
+  font-family: Inter;
+}
+.formCols2 {
+  position: absolute;
+  top: 1184px;
+  left: calc(50% - 45px);
+  width: 621px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: #475569;
+}
+.typeYourMessage {
+  position: absolute;
+  top: calc(50% - 61.5px);
+  left: 14px;
+  line-height: 24px;
+}
+.input7 {
+  position: absolute;
+  width: 100%;
+  top: 24px;
+  right: 0px;
+  left: 0px;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #cbd5e1;
+  box-sizing: border-box;
+  height: 163px;
+  overflow: hidden;
+  font-size: 16px;
+  color: #94a3b8;
+  font-family: Inter;
+}
+.formCols3 {
+  position: absolute;
+  top: 1284px;
+  left: calc(50% - 46px);
+  width: 621px;
+  height: 187px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: #475569;
+}
+.button1 {
+  position: absolute;
+  top: 1503px;
+  left: 901px;
+  border-radius: 5px;
+  background-color: #013b7d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+  text-align: center;
+  color: #f8fafc;
+}
+.image1374Icon {
+  position: absolute;
+  bottom: 468px;
+  left: 0px;
+  width: 1440px;
+  height: 512px;
+  object-fit: cover;
+}
+.discoverTrustedAdvice {
+  width: 718px;
+  position: relative;
+  font-size: 22px;
+  line-height: 140%;
+  font-family: Montserrat;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+}
+.joinUsOnYourJourneyToBetParent {
+  position: absolute;
+  bottom: 704px;
+  left: 334px;
+  width: 781px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 45px;
+  color: #f2f2f2;
+  font-family: "Futura Std";
+}
+.button2 {
+  border-radius: 5px;
+  background-color: #5b88fe;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+}
+.button3 {
+  border-radius: 5px;
+  background-color: #013b7d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+}
+.buttonParent {
+  position: absolute;
+  bottom: 609px;
+  left: calc(50% - 261px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 26px;
+  text-align: center;
+  color: #f8fafc;
+}
+.desktop4Item {
+  position: absolute;
+  bottom: 438px;
+  left: 0px;
+  background-color: #ca0146;
+  width: 360px;
+  height: 30px;
+}
+.rectangleDiv {
+  position: absolute;
+  bottom: 438px;
+  left: 360px;
+  background-color: #013b7d;
+  width: 360px;
+  height: 30px;
+}
+.desktop4Child1 {
+  position: absolute;
+  bottom: 438px;
+  left: 720px;
+  background-color: #edb52a;
+  width: 360px;
+  height: 30px;
+}
+.desktop4Child2 {
+  position: absolute;
+  bottom: 438px;
+  left: 1080px;
+  background-color: #64b05c;
+  width: 360px;
+  height: 30px;
+}
+.image8Icon {
+  width: 298px;
+  position: relative;
+  height: 80px;
+  object-fit: cover;
+}
+.image8Wrapper {
+  width: 328px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.discover {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+  font-weight: 500;
+}
+.frameItem {
+  align-self: stretch;
+  position: relative;
+  border-top: 1px solid #0d0d0d;
+  box-sizing: border-box;
+  height: 1px;
+}
+.discoverParent {
+  width: 110px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.healthCareConsulting {
+  width: 241px;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+}
+.healthMediaManagement {
+  position: relative;
+  line-height: 140%;
+  text-align: center;
+}
+.medicalTourism {
+  width: 250px;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+}
+.healthCareConsultingParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+  font-size: 18px;
+  color: #000;
+}
+.frameParent1 {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 36px;
+}
+.frameParent2 {
+  width: 194px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 36px;
+}
+.getInTouch {
+  width: 145px;
+  position: relative;
+  line-height: 140%;
+  font-weight: 500;
+  display: inline-block;
+}
+.input8 {
+  align-self: stretch;
+  position: relative;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #cbd5e1;
+  box-sizing: border-box;
+  height: 52px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: 18px;
+  color: #3c3c3c;
+}
+.getTheLatestArticlesInYouParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3px;
+}
+.button4 {
+  border-radius: 5px;
+  background-color: #013b7d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+  gap: 6px;
+  text-align: center;
+  font-size: 18px;
+  color: #f8fafc;
+}
+.frameParent4 {
+  width: 279px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  font-size: 15px;
+}
+.frameContainer {
+  position: absolute;
+  bottom: 0px;
+  left: calc(50% - 590px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 52px;
+  font-size: 22px;
+}
+.desktop4 {
+  width: 100%;
+  position: relative;
+  background-color: #f8f8ee;
+  height: 2650px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 18px;
+  color: #0d0d0d;
+  font-family: Montserrat;
+}

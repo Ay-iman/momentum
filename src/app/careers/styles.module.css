@@ -1,0 +1,593 @@
+.momentumLogoCroppedPng1 {
+  width: 206.8px;
+  position: relative;
+  height: 52px;
+  object-fit: cover;
+}
+.aboutUs {
+  position: relative;
+  line-height: 140%;
+  font-weight: 600;
+}
+.careers {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+  font-weight: 600;
+}
+.frameChild {
+  align-self: stretch;
+  position: relative;
+  border-top: 2px solid #013b7d;
+  box-sizing: border-box;
+  height: 2px;
+}
+.careersParent {
+  width: 73px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.searchIcon {
+  width: 16px;
+  position: relative;
+  height: 16px;
+}
+.searchArticles {
+  position: relative;
+  line-height: 17px;
+}
+.button {
+  border-radius: 5px;
+  background-color: #013b7d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+  gap: 6px;
+  text-align: center;
+  font-size: 14px;
+  color: #f8fafc;
+}
+.aboutUsParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 31px;
+}
+.momentumLogoCroppedPng1Parent {
+  width: 1196.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.desktop3Inner {
+  position: absolute;
+  top: 0px;
+  left: calc(50% - 720px);
+  box-shadow: 0px 0px 4px rgba(13, 13, 13, 0.25);
+  background-color: #fff;
+  width: 1440px;
+  height: 133px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 40px 120px;
+  box-sizing: border-box;
+}
+.bePartOf {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+  font-weight: 800;
+}
+.bePartOfATeamThatMakesAWrapper {
+  width: 995px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.atMomentumWere {
+  align-self: stretch;
+  position: relative;
+  font-size: 26px;
+  line-height: 140%;
+  color: #3c3c3c;
+}
+.joinUs {
+  width: 182px;
+  position: relative;
+  line-height: 140%;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.button1 {
+  border-radius: 5px;
+  background-color: #013b7d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+  text-align: center;
+  font-size: 18px;
+  color: #f8fafc;
+  font-family: Montserrat;
+}
+.frameParent {
+  position: absolute;
+  top: 196px;
+  left: calc(50% - 600px);
+  width: 1051px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  font-size: 54px;
+  color: #0d2154;
+  font-family: "Futura Std";
+}
+.careers1Icon {
+  position: absolute;
+  top: 503px;
+  left: 120px;
+  border-radius: 8px;
+  width: 1195px;
+  height: 430px;
+  object-fit: cover;
+}
+.whyPartnerWith {
+  position: relative;
+  font-size: 26px;
+  line-height: 140%;
+  font-weight: 800;
+  font-family: "Futura Std";
+  color: #0d0d0d;
+}
+.whyYoullLoveWorkingHereParent {
+  position: absolute;
+  top: 42px;
+  left: 128px;
+  width: 431px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.strategyAndOperations {
+  position: absolute;
+  top: 22px;
+  left: 18.28px;
+  line-height: 140%;
+  font-weight: 600;
+}
+.optimizingProcessesAligning {
+  position: absolute;
+  top: 48px;
+  left: 18px;
+  font-size: 15px;
+  line-height: 140%;
+  color: #3c3c3c;
+  display: inline-block;
+  width: 349px;
+}
+.strategyAndOperations1 {
+  position: absolute;
+  top: 150px;
+  left: 18px;
+  width: 349px;
+  height: 142px;
+  object-fit: cover;
+}
+.frame {
+  width: 387px;
+  position: relative;
+  border-radius: 12px;
+  background-color: #fff;
+  border: 1px solid #e6ebf2;
+  box-sizing: border-box;
+  height: 305px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.leveragesBusinessAnalytics {
+  position: absolute;
+  top: 48px;
+  left: 18.22px;
+  font-size: 15px;
+  line-height: 140%;
+  color: #3c3c3c;
+  display: inline-block;
+  width: 349px;
+}
+.businessAnalytics2 {
+  position: absolute;
+  top: 163px;
+  left: 19px;
+  width: 349px;
+  height: 127px;
+  object-fit: cover;
+}
+.marketing1Icon {
+  position: absolute;
+  top: 167px;
+  left: 18px;
+  width: 349px;
+  height: 127px;
+  object-fit: cover;
+}
+.frame2 {
+  width: 386px;
+  position: relative;
+  border-radius: 12px;
+  background-color: #fff;
+  border: 1px solid #e6ebf2;
+  box-sizing: border-box;
+  height: 305px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.medicalWriting1 {
+  position: absolute;
+  top: 167.34px;
+  left: 18px;
+  width: 349px;
+  height: 127px;
+  object-fit: cover;
+}
+.frameDiv {
+  width: 794px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: center;
+  gap: 20px;
+}
+.frameItem {
+  align-self: stretch;
+  height: 350px;
+}
+.frameContainer {
+  position: absolute;
+  top: 159px;
+  left: calc(50% - 600px);
+  width: 1201px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 31px;
+  color: #013b7d;
+}
+.frameGroup {
+  position: absolute;
+  top: 1055px;
+  left: calc(50% - 720px);
+  background-color: #fbfbfb;
+  width: 1440px;
+  height: 869px;
+  overflow: hidden;
+  color: #3c3c3c;
+}
+.seniorContentWriter {
+  position: relative;
+  line-height: 140%;
+}
+.jobTypeRemote {
+  position: relative;
+  font-size: 18px;
+  line-height: 140%;
+  font-weight: 600;
+  color: #3c3c3c;
+}
+.seniorContentWriterParent {
+  align-self: stretch;
+  box-shadow: 0px 0px 47.5px rgba(13, 13, 13, 0.05);
+  border-radius: 8px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 42px;
+}
+.frameParent2 {
+  position: absolute;
+  top: 178px;
+  left: 122px;
+  width: 1185px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.checkOutThe {
+  align-self: stretch;
+  position: relative;
+  font-size: 18px;
+  line-height: 140%;
+  font-family: Montserrat;
+  color: #3c3c3c;
+}
+.wantToJoinOurTeamParent {
+  position: absolute;
+  top: 76px;
+  left: 122px;
+  width: 609px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 26px;
+  font-family: "Futura Std";
+}
+.frameParent1 {
+  position: absolute;
+  top: 2002.5px;
+  left: -6.5px;
+  background-color: #fbfbfb;
+  border: 13px solid #fff;
+  box-sizing: border-box;
+  width: 1453px;
+  height: 498px;
+  overflow: hidden;
+  font-size: 22px;
+}
+.image1374Icon {
+  position: absolute;
+  bottom: 510px;
+  left: 0px;
+  width: 1440px;
+  height: 512px;
+  object-fit: cover;
+}
+.receiveJobOpening {
+  width: 473px;
+  position: relative;
+  font-size: 22px;
+  line-height: 140%;
+  font-family: Montserrat;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+}
+.joinUsOnYourJourneyToBetParent {
+  position: absolute;
+  bottom: 746px;
+  left: 334px;
+  width: 781px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 45px;
+  color: #f2f2f2;
+  font-family: "Futura Std";
+}
+.button2 {
+  border-radius: 5px;
+  background-color: #013b7d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+}
+.buttonWrapper {
+  position: absolute;
+  bottom: 651px;
+  left: calc(50% - 105.5px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: center;
+  color: #f8fafc;
+}
+.desktop3Child {
+  position: absolute;
+  bottom: 480px;
+  left: 0px;
+  background-color: #ca0146;
+  width: 360px;
+  height: 30px;
+}
+.desktop3Item {
+  position: absolute;
+  bottom: 480px;
+  left: 360px;
+  background-color: #013b7d;
+  width: 360px;
+  height: 30px;
+}
+.rectangleDiv {
+  position: absolute;
+  bottom: 480px;
+  left: 720px;
+  background-color: #edb52a;
+  width: 360px;
+  height: 30px;
+}
+.desktop3Child1 {
+  position: absolute;
+  bottom: 480px;
+  left: 1080px;
+  background-color: #64b05c;
+  width: 360px;
+  height: 30px;
+}
+.image8Icon {
+  width: 298px;
+  position: relative;
+  height: 80px;
+  object-fit: cover;
+}
+.image8Wrapper {
+  width: 328px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.discover {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+  font-weight: 500;
+}
+.frameInner {
+  align-self: stretch;
+  position: relative;
+  border-top: 1px solid #0d0d0d;
+  box-sizing: border-box;
+  height: 1px;
+}
+.discoverParent {
+  width: 110px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.healthCareConsulting {
+  width: 241px;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+}
+.healthMediaManagement {
+  position: relative;
+  line-height: 140%;
+  text-align: center;
+}
+.medicalTourism {
+  width: 250px;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+}
+.healthCareConsultingParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+  font-size: 18px;
+  color: #000;
+}
+.frameParent4 {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 36px;
+}
+.frameParent5 {
+  width: 194px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 36px;
+}
+.getInTouch {
+  width: 145px;
+  position: relative;
+  line-height: 140%;
+  font-weight: 500;
+  display: inline-block;
+}
+.getInTouchParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.enterYourEmail {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: 16px;
+  line-height: 140%;
+}
+.input {
+  align-self: stretch;
+  position: relative;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #cbd5e1;
+  box-sizing: border-box;
+  height: 52px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: 18px;
+  color: #3c3c3c;
+}
+.getTheLatestArticlesInYouParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3px;
+}
+.button3 {
+  border-radius: 5px;
+  background-color: #013b7d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+  gap: 6px;
+  text-align: center;
+  font-size: 18px;
+  color: #f8fafc;
+}
+.frameParent7 {
+  width: 279px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  font-size: 15px;
+}
+.frameParent3 {
+  position: absolute;
+  top: 3129px;
+  left: calc(50% - 590px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 52px;
+  font-size: 22px;
+}
+.desktop3 {
+  width: 100%;
+  position: relative;
+  background-color: #f8f8ee;
+  height: 3526px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 18px;
+  color: #0d0d0d;
+  font-family: Montserrat;
+}

@@ -1,0 +1,562 @@
+.momentumLogoCroppedPng1 {
+  width: 206.8px;
+  position: relative;
+  height: 52px;
+  object-fit: cover;
+}
+.aboutUs {
+  position: relative;
+  line-height: 140%;
+  font-weight: 600;
+}
+.frameChild {
+  width: 104px;
+  position: relative;
+  border-top: 2px solid #013b7d;
+  box-sizing: border-box;
+  height: 2px;
+}
+.contactUsParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.searchIcon {
+  width: 16px;
+  position: relative;
+  height: 16px;
+}
+.searchArticles {
+  position: relative;
+  line-height: 17px;
+}
+.button {
+  border-radius: 5px;
+  background-color: #013b7d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+  gap: 6px;
+  text-align: center;
+  font-size: 14px;
+  color: #f8fafc;
+}
+.aboutUsParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 31px;
+}
+.momentumLogoCroppedPng1Parent {
+  width: 1196.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.desktop7Inner {
+  position: absolute;
+  top: 0px;
+  left: calc(50% - 720px);
+  box-shadow: 0px 0px 4px rgba(13, 13, 13, 0.25);
+  background-color: #fff;
+  width: 1440px;
+  height: 133px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 40px 120px;
+  box-sizing: border-box;
+  font-size: 18px;
+}
+.image8Icon {
+  width: 298px;
+  position: relative;
+  height: 80px;
+  object-fit: cover;
+}
+.image8Wrapper {
+  width: 328px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.discover {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+  font-weight: 500;
+}
+.frameItem {
+  align-self: stretch;
+  position: relative;
+  border-top: 1px solid #0d0d0d;
+  box-sizing: border-box;
+  height: 1px;
+}
+.discoverParent {
+  width: 110px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.healthCareConsulting {
+  width: 241px;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+}
+.healthMediaManagement {
+  position: relative;
+  line-height: 140%;
+  text-align: center;
+}
+.medicalTourism {
+  width: 250px;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+}
+.healthCareConsultingParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+  font-size: 18px;
+  color: #000;
+}
+.frameGroup {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 36px;
+}
+.frameContainer {
+  width: 194px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 36px;
+}
+.getInTouch {
+  width: 145px;
+  position: relative;
+  line-height: 140%;
+  font-weight: 500;
+  display: inline-block;
+}
+.getInTouchParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.enterYourEmail {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: 16px;
+  line-height: 140%;
+}
+.input {
+  align-self: stretch;
+  position: relative;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #cbd5e1;
+  box-sizing: border-box;
+  height: 52px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: 18px;
+  color: #3c3c3c;
+}
+.getTheLatestArticlesInYouParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3px;
+}
+.button1 {
+  border-radius: 5px;
+  background-color: #013b7d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+  gap: 6px;
+  text-align: center;
+  font-size: 18px;
+  color: #f8fafc;
+}
+.frameParent1 {
+  width: 279px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  font-size: 15px;
+}
+.frameParent {
+  position: absolute;
+  bottom: 73px;
+  left: calc(50% - 590px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 52px;
+}
+.medicalTourism1 {
+  position: absolute;
+  top: 214px;
+  left: 131px;
+  line-height: 140%;
+  color: #edb52a;
+}
+.yourGatewayTo {
+  width: 733px;
+  position: relative;
+  line-height: 140%;
+  font-weight: 800;
+  display: inline-block;
+}
+.yourGatewayToWorldClassHeWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.connectingYouWith {
+  align-self: stretch;
+  position: relative;
+  font-size: 26px;
+  line-height: 140%;
+  color: #3c3c3c;
+}
+.button2 {
+  border-radius: 5px;
+  background-color: #013b7d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+  text-align: center;
+  font-size: 14px;
+  color: #f8fafc;
+  font-family: Montserrat;
+}
+.frameParent4 {
+  width: 1051px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.medicalTourismIcon {
+  width: 1195px;
+  position: relative;
+  border-radius: 20px;
+  height: 430px;
+  object-fit: cover;
+}
+.frameParent3 {
+  width: 1195px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  text-align: left;
+  font-family: "Futura Std";
+}
+.medicalTourismEnables {
+  width: 884px;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+}
+.button3 {
+  border-radius: 5px;
+  background-color: #013b7d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+  font-size: 14px;
+  color: #f8fafc;
+}
+.medicalTourismEnablesPatienParent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  gap: 16px;
+  font-size: 18px;
+  color: #0d0d0d;
+}
+.ourTeam {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+  font-weight: 800;
+}
+.ourTeamParent {
+  position: absolute;
+  bottom: 957px;
+  left: calc(50% - 345px);
+  width: 689px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+  font-size: 45px;
+  font-family: "Futura Std";
+}
+.ellipseDiv {
+  width: 268px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #ec96b4;
+  height: 268px;
+  z-index: 0;
+}
+.maleMemojisIcon {
+  width: 316px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0px;
+  left: 0px;
+  height: 316px;
+  object-fit: cover;
+  z-index: 1;
+}
+.arrowForwardIcon {
+  width: 19px;
+  position: relative;
+  height: 19px;
+  object-fit: contain;
+}
+.button4 {
+  margin: 0 !important;
+  position: absolute;
+  top: 240px;
+  left: 207px;
+  border-radius: 19.54px;
+  background-color: #013b7d;
+  border: 4px solid #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10.4px;
+  z-index: 2;
+}
+.ellipseParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 24px;
+  position: relative;
+  gap: 10px;
+}
+.thompsonPeters {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+}
+.chiefExecutiveOfficer {
+  align-self: stretch;
+  position: relative;
+  font-size: 15px;
+  line-height: 140%;
+  font-weight: 500;
+}
+.thompsonPetersParent {
+  width: 204px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.frameParent7 {
+  width: 316px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frameChild1 {
+  width: 268px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #b2cdeb;
+  height: 268px;
+  z-index: 0;
+}
+.button5 {
+  margin: 0 !important;
+  position: absolute;
+  top: 250px;
+  left: 211px;
+  border-radius: 19.54px;
+  background-color: #013b7d;
+  border: 4px solid #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10.4px;
+  z-index: 2;
+}
+.ellipseGroup {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 24px;
+  position: relative;
+  gap: 10px;
+}
+.frameParent8 {
+  width: 316px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  margin-left: -9px;
+}
+.frameChild2 {
+  width: 268px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #e4d1a0;
+  height: 268px;
+  z-index: 0;
+}
+.button6 {
+  margin: 0 !important;
+  position: absolute;
+  top: 239px;
+  left: 217px;
+  border-radius: 19.54px;
+  background-color: #013b7d;
+  border: 4px solid #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10.4px;
+  z-index: 2;
+}
+.frameChild3 {
+  width: 268px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #b4ebae;
+  height: 268px;
+  z-index: 0;
+}
+.button7 {
+  margin: 0 !important;
+  position: absolute;
+  top: 241px;
+  left: 218px;
+  border-radius: 19.54px;
+  background-color: #013b7d;
+  border: 4px solid #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10.4px;
+  z-index: 2;
+}
+.frameParent6 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frameWrapper {
+  position: absolute;
+  bottom: 525px;
+  left: calc(50% - 619px);
+  width: 1237.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameWrapper1 {
+  position: absolute;
+  bottom: 117px;
+  left: calc(50% - 619px);
+  width: 1237.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameParent5 {
+  width: 1440px;
+  position: relative;
+  height: 1132px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: 22px;
+  color: #000;
+}
+.frameParent2 {
+  position: absolute;
+  top: 248px;
+  left: 0px;
+  width: 1440px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 72px;
+  text-align: center;
+  font-size: 54px;
+  color: #0d2154;
+}
+.desktop7 {
+  width: 100%;
+  position: relative;
+  background-color: #f8f8ee;
+  height: 2844px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 22px;
+  color: #0d0d0d;
+  font-family: Montserrat;
+}

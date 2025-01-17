@@ -1,0 +1,877 @@
+.momentumLogoCroppedPng1 {
+  width: 206.8px;
+  position: relative;
+  height: 52px;
+  object-fit: cover;
+}
+.aboutUs {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+  font-weight: 600;
+}
+.frameChild {
+  align-self: stretch;
+  position: relative;
+  border-top: 2px solid #013b7d;
+  box-sizing: border-box;
+  height: 2px;
+}
+.aboutUsParent {
+  width: 86.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.articles {
+  position: relative;
+  line-height: 140%;
+  font-weight: 600;
+}
+.searchIcon {
+  width: 16px;
+  position: relative;
+  height: 16px;
+}
+.searchArticles {
+  position: relative;
+  line-height: 17px;
+}
+.button {
+  border-radius: 5px;
+  background-color: #013b7d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+  gap: 6px;
+  text-align: center;
+  font-size: 14px;
+  color: #f8fafc;
+}
+.frameParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 31px;
+}
+.momentumLogoCroppedPng1Parent {
+  width: 1195px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.desktop12Inner {
+  position: absolute;
+  top: 0px;
+  left: calc(50% - 720px);
+  box-shadow: 0px 0px 4px rgba(13, 13, 13, 0.25);
+  background-color: #fff;
+  width: 1440px;
+  height: 133px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 40px 120px;
+  box-sizing: border-box;
+}
+.empoweringHealthcareOrganisa {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+  font-weight: 800;
+}
+.empoweringHealthcareOrganisaWrapper {
+  width: 995px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.momentumHealthcareIs {
+  margin: 0;
+}
+.momentumHealthcareIsContainer {
+  align-self: stretch;
+  position: relative;
+  font-size: 26px;
+  line-height: 140%;
+  color: #3c3c3c;
+}
+.frameGroup {
+  position: absolute;
+  top: 239px;
+  left: 120px;
+  width: 1051px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  font-size: 54px;
+  color: #0d2154;
+  font-family: "Futura Std";
+}
+.aboutUs1 {
+  position: absolute;
+  top: 594px;
+  left: 117px;
+  border-radius: 20px;
+  width: 1195px;
+  height: 430px;
+  object-fit: cover;
+}
+.ourVisonAnd {
+  position: absolute;
+  top: 144px;
+  left: 195px;
+  line-height: 140%;
+  font-weight: 800;
+  display: inline-block;
+  width: 602px;
+}
+.ourVision {
+  line-height: 140%;
+  font-weight: 600;
+  font-family: Montserrat;
+}
+.span {
+  line-height: 25.2px;
+  font-family: "Open Sans";
+}
+.toRevolutionizeHealthcareGl {
+  line-height: 140%;
+}
+.ourMission1 {
+  font-weight: 600;
+  font-family: Montserrat;
+}
+.momentumHealthcareIs1 {
+  line-height: 25.2px;
+}
+.ourMissionmomentumHealthcar {
+  margin: 0;
+  font-family: "Open Sans";
+}
+.ourVisionToContainer {
+  position: absolute;
+  top: 231px;
+  left: 194px;
+  font-size: 18px;
+  color: #3c3c3c;
+  display: inline-block;
+  width: 579px;
+  font-family: Montserrat;
+}
+.frameItem {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 8px;
+  background-color: #000;
+  width: 387px;
+  height: 400px;
+}
+.fepictureIcon {
+  position: absolute;
+  top: calc(50% - 40px);
+  left: calc(50% - 40px);
+  width: 80px;
+  height: 80px;
+  overflow: hidden;
+  display: none;
+}
+.aboutUsVisionAndMission1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 8px;
+  width: 387px;
+  height: 400px;
+  object-fit: cover;
+}
+.rectangleParent {
+  position: absolute;
+  top: 101px;
+  left: 859px;
+  width: 394px;
+  height: 400px;
+}
+.frameInner {
+  position: absolute;
+  top: 323.5px;
+  left: 197.5px;
+  border-top: 1px solid #b2cdeb;
+  box-sizing: border-box;
+  width: 576px;
+  height: 1px;
+}
+.ourVisonAndMissionStatemenParent {
+  align-self: stretch;
+  position: relative;
+  background-color: #fbfbfb;
+  height: 579px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-family: "Futura Std";
+}
+.fepictureIcon1 {
+  position: absolute;
+  top: calc(50% - 43.72px);
+  left: calc(50% - 43.39px);
+  width: 88.9px;
+  height: 88.9px;
+  overflow: hidden;
+  display: none;
+}
+.momentumLogoCroppedPng2 {
+  width: 569.1px;
+  position: relative;
+  height: 143.1px;
+  object-fit: cover;
+}
+.momentumLogoCroppedPng2Wrapper {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 8.89px;
+  background-color: #fff;
+  width: 613px;
+  height: 234px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 45px 22px;
+  box-sizing: border-box;
+}
+.fepictureParent {
+  position: absolute;
+  top: 67px;
+  left: calc(50% - 21px);
+  border-radius: 8px;
+  width: 613px;
+  height: 273px;
+}
+.welcomeToMomentum {
+  align-self: stretch;
+  position: relative;
+  line-height: 36.4px;
+  text-transform: uppercase;
+}
+.atMomentumHealthcare {
+  align-self: stretch;
+  position: relative;
+  font-size: 18px;
+  line-height: 25.2px;
+  font-family: "Open Sans";
+  color: #f8f8ee;
+}
+.welcomeToMomentumParent {
+  position: absolute;
+  top: 124px;
+  left: 142px;
+  width: 468px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.healthCareConsulting {
+  position: relative;
+  line-height: 140%;
+}
+.learnMore {
+  margin: 0;
+  font-size: 22px;
+  color: #edb52a;
+}
+.ourExpertTeamContainer {
+  width: 275px;
+  position: relative;
+  line-height: 140%;
+  text-align: left;
+  display: inline-block;
+  font-size: 18px;
+  color: #f8f8ee;
+}
+.healthCareConsultingParent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  text-align: center;
+}
+.healthMediaManagement {
+  width: 275px;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+}
+.withAReachContainer {
+  width: 275px;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+  font-size: 18px;
+  color: #f8f8ee;
+}
+.healthMediaManagementParent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+.frameParent1 {
+  position: absolute;
+  top: 355px;
+  left: calc(50% - 635px);
+  border-radius: 16px;
+  border: 1px solid #db1e26;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 20px 16px;
+  gap: 32px;
+  font-size: 22px;
+}
+.frameDiv {
+  width: 1440px;
+  position: relative;
+  background-color: #0d2154;
+  height: 814px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: 28px;
+  color: #fff;
+}
+.whyPartnerWith {
+  align-self: stretch;
+  position: relative;
+  font-size: 28px;
+  line-height: 36.4px;
+  text-transform: uppercase;
+  color: #0d0d0d;
+}
+.whatSetsYouApartParent {
+  position: absolute;
+  top: -4px;
+  left: 128px;
+  width: 431px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.expertiseAcrossHealthcareSe {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 24px;
+}
+.globalReachWithLocalImpactWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.expertiseAcrossHealthcareSeParent {
+  position: absolute;
+  top: 97px;
+  left: calc(50% - 592px);
+  width: 1129px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 18px 11px;
+  box-sizing: border-box;
+  gap: 16px;
+}
+.frameParent2 {
+  width: 1440px;
+  position: relative;
+  background-color: #fbfbfb;
+  height: 291px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: 18px;
+  color: #3c3c3c;
+}
+.frameContainer {
+  position: absolute;
+  top: 1064px;
+  left: 0px;
+  width: 1440px;
+  height: 1722px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px;
+  font-size: 26px;
+}
+.managementTeamParent {
+  position: absolute;
+  bottom: 1480px;
+  left: calc(50% - 325.5px);
+  width: 689px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+  text-align: center;
+  font-size: 45px;
+  color: #000;
+  font-family: "Futura Std";
+}
+.ellipseDiv {
+  width: 268px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #ec96b4;
+  height: 268px;
+  z-index: 0;
+}
+.maleMemojisIcon {
+  width: 316px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0px;
+  left: 0px;
+  height: 316px;
+  object-fit: cover;
+  z-index: 1;
+}
+.arrowForwardIcon {
+  width: 19px;
+  position: relative;
+  height: 19px;
+  object-fit: contain;
+}
+.button1 {
+  margin: 0 !important;
+  position: absolute;
+  top: 240px;
+  left: 207px;
+  border-radius: 19.54px;
+  background-color: #013b7d;
+  border: 4px solid #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10.4px;
+  z-index: 2;
+}
+.ellipseParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 24px;
+  position: relative;
+  gap: 10px;
+}
+.thompsonPeters {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+}
+.chiefExecutiveOfficer {
+  align-self: stretch;
+  position: relative;
+  font-size: 15px;
+  line-height: 140%;
+  font-weight: 500;
+}
+.thompsonPetersParent {
+  width: 204px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.frameParent4 {
+  width: 316px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frameChild1 {
+  width: 268px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #b2cdeb;
+  height: 268px;
+  z-index: 0;
+}
+.button2 {
+  margin: 0 !important;
+  position: absolute;
+  top: 250px;
+  left: 211px;
+  border-radius: 19.54px;
+  background-color: #013b7d;
+  border: 4px solid #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10.4px;
+  z-index: 2;
+}
+.ellipseGroup {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 24px;
+  position: relative;
+  gap: 10px;
+}
+.frameParent5 {
+  width: 316px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  margin-left: -9px;
+}
+.frameChild2 {
+  width: 268px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #e4d1a0;
+  height: 268px;
+  z-index: 0;
+}
+.button3 {
+  margin: 0 !important;
+  position: absolute;
+  top: 239px;
+  left: 217px;
+  border-radius: 19.54px;
+  background-color: #013b7d;
+  border: 4px solid #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10.4px;
+  z-index: 2;
+}
+.frameChild3 {
+  width: 268px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #b4ebae;
+  height: 268px;
+  z-index: 0;
+}
+.button4 {
+  margin: 0 !important;
+  position: absolute;
+  top: 241px;
+  left: 218px;
+  border-radius: 19.54px;
+  background-color: #013b7d;
+  border: 4px solid #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10.4px;
+  z-index: 2;
+}
+.frameParent3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.desktop12Child {
+  position: absolute;
+  bottom: 1048px;
+  left: 120px;
+  width: 1237.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: 22px;
+  color: #000;
+}
+.image1374Icon {
+  position: absolute;
+  bottom: 490px;
+  left: -4px;
+  width: 1440px;
+  height: 512px;
+  object-fit: cover;
+}
+.discoverTrustedAdvice {
+  width: 718px;
+  position: relative;
+  font-size: 22px;
+  line-height: 140%;
+  font-family: Montserrat;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+}
+.joinUsOnYourJourneyToBetParent {
+  position: absolute;
+  bottom: 726px;
+  left: 330px;
+  width: 781px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 45px;
+  color: #f2f2f2;
+  font-family: "Futura Std";
+}
+.button5 {
+  border-radius: 5px;
+  background-color: #5b88fe;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+}
+.button6 {
+  border-radius: 5px;
+  background-color: #013b7d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+}
+.buttonParent {
+  position: absolute;
+  bottom: 631px;
+  left: calc(50% - 265px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 26px;
+  text-align: center;
+  color: #f8fafc;
+}
+.desktop12Item {
+  position: absolute;
+  bottom: 460px;
+  left: -4px;
+  background-color: #ca0146;
+  width: 360px;
+  height: 30px;
+}
+.rectangleDiv {
+  position: absolute;
+  bottom: 460px;
+  left: 356px;
+  background-color: #013b7d;
+  width: 360px;
+  height: 30px;
+}
+.desktop12Child1 {
+  position: absolute;
+  bottom: 460px;
+  left: 716px;
+  background-color: #edb52a;
+  width: 360px;
+  height: 30px;
+}
+.desktop12Child2 {
+  position: absolute;
+  bottom: 460px;
+  left: 1076px;
+  background-color: #64b05c;
+  width: 360px;
+  height: 30px;
+}
+.image8Icon {
+  width: 298px;
+  position: relative;
+  height: 80px;
+  object-fit: cover;
+}
+.image8Wrapper {
+  width: 328px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.discover {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+  font-weight: 500;
+}
+.lineDiv {
+  align-self: stretch;
+  position: relative;
+  border-top: 1px solid #0d0d0d;
+  box-sizing: border-box;
+  height: 1px;
+}
+.discoverParent {
+  width: 110px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.healthCareConsulting1 {
+  width: 241px;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+}
+.healthMediaManagement1 {
+  position: relative;
+  line-height: 140%;
+  text-align: center;
+}
+.medicalTourism1 {
+  width: 250px;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+}
+.healthCareConsultingGroup {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+  font-size: 18px;
+  color: #000;
+}
+.frameParent9 {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 36px;
+}
+.frameParent10 {
+  width: 194px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 36px;
+}
+.getInTouch {
+  width: 145px;
+  position: relative;
+  line-height: 140%;
+  font-weight: 500;
+  display: inline-block;
+}
+.getInTouchParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.enterYourEmail {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: 16px;
+  line-height: 140%;
+}
+.input {
+  align-self: stretch;
+  position: relative;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #cbd5e1;
+  box-sizing: border-box;
+  height: 52px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: 18px;
+  color: #3c3c3c;
+}
+.getTheLatestArticlesInYouParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3px;
+}
+.button7 {
+  border-radius: 5px;
+  background-color: #013b7d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 18px;
+  gap: 6px;
+  text-align: center;
+  font-size: 18px;
+  color: #f8fafc;
+}
+.frameParent12 {
+  width: 279px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  font-size: 15px;
+}
+.frameParent8 {
+  position: absolute;
+  bottom: 61px;
+  left: calc(50% - 628.5px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 75px;
+  font-size: 22px;
+}
+.desktop12 {
+  width: 100%;
+  position: relative;
+  background-color: #f8f8ee;
+  height: 4658px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 18px;
+  color: #0d0d0d;
+  font-family: Montserrat;
+}

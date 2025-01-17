@@ -1,5 +1,6 @@
 import React, { ReactNode } from "react";
-import Navbar from "./components/Navbar"; // Adjust the path as necessary
+// import Navbar from "./components/Navbar"; // Adjust the path as necessary
+import "./globals.css";
 
 interface RootLayoutProps {
   children: ReactNode;
@@ -17,7 +18,7 @@ const RootLayout: React.FC<RootLayoutProps> = ({ children }) => {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </head>
       <body>
-        <Navbar />
+        {/* <Navbar /> */}
         {children}
       </body>
     </html>
